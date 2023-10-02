@@ -10,7 +10,10 @@
    ### [Forest Fire Dataset Analysis](./Preprocessing/)
    - This mini project reflects the beginnings of my data science journey during my academic pursuits. It is a basic exploration of the Forest Fire dataset, focusing on fundamental statistical analysis and a simple linear regression prediction. As I continue to learn and grow, I look forward to more complex and exciting data science projects ahead. Your feedback and guidance are greatly appreciated as I progress in this field.
 ## NLP
-   ### [Natural Language Processing](./NLP/)
+   ### [Web Scraping and Data Analysis - Blog Content Analysis](./NLP/)
+   -  Natural Language Processing (NLP)! In this project, I've combined web scraping using Beautiful Soup and requests with extensive data analysis to extract valuable variables from a company's web blog content. The ultimate goal of this project is to identify and analyze various attributes like positive and negative sentiment scores, word counts, and more for the content of a specific company's blog
+   -  This project showcases the power of NLP and web scraping in extracting valuable information from unstructured text data. By identifying and analyzing variables such as sentiment scores and word counts, we gain valuable insights into the company's blog content. The ability to export these insights to an Excel file makes them easily accessible for further analysis or reporting.
+   -  s I continue my journey in the field of NLP and data analysis, I look forward to more complex projects and applications. Your feedback and guidance are highly appreciated as I continue to explore the exciting world of natural language processing and data science.
 ## Machine Learning
    ### Supervised Learning
    ### [Customer Purchase Quantity Prediction](./Machine%20Learning/)
