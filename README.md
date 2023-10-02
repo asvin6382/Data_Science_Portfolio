@@ -12,7 +12,7 @@
    ### [Natural Language Processing](./NLP/)
 ## Machine Learning
    ### Supervised Learning
-   ### [Customer Purchase Quantity Prediction](./Machine_Learning/)
+   ### [Customer Purchase Quantity Prediction](./Machine%20Learning/)
 ## Power Bi
    ### [Call Center Performance Dashboard](./Power%20Bi/)
    In this visualization project, we provide a comprehensive overview of our call center's performance, showcasing both individual employee metrics and an overall 
