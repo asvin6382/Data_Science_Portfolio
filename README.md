@@ -7,7 +7,8 @@
    analysis.
 
 ## Statistical Analysis
-   ### [Forest Fire ](./Preprocessing/)
+   ### [Forest Fire Dataset Analysis](./Preprocessing/)
+   - This mini project reflects the beginnings of my data science journey during my academic pursuits. It is a basic exploration of the Forest Fire dataset, focusing on fundamental statistical analysis and a simple linear regression prediction. As I continue to learn and grow, I look forward to more complex and exciting data science projects ahead. Your feedback and guidance are greatly appreciated as I progress in this field.
 ## NLP
    ### [Natural Language Processing](./NLP/)
 ## Machine Learning
