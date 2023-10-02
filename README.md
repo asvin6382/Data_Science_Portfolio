@@ -14,6 +14,8 @@
 ## Machine Learning
    ### Supervised Learning
    ### [Customer Purchase Quantity Prediction](./Machine%20Learning/)
+   - Welcome to my journey in the world of machine learning! In this project, I explore the task of predicting customer purchase quantities, focusing on supervised learning techniques. This project marks my early steps into the field of machine learning during my academic journey
+   - This project represents my early steps into the world of machine learning, with a focus on predicting customer purchase quantities using supervised learning techniques. It includes data preprocessing, exploratory data analysis, model development, and deployment. As I continue to learn and grow in the field of machine learning, I look forward to more advanced projects and applications
 ## Power Bi
    ### [Call Center Performance Dashboard](./Power%20Bi/)
    In this visualization project, we provide a comprehensive overview of our call center's performance, showcasing both individual employee metrics and an overall 
