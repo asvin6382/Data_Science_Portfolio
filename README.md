@@ -7,9 +7,16 @@
    descriptions. Finally, the repository includes a conclusion summarizing the insights gained from the analysis.
 
 ## Statistical Analysis
-   
+   ### [Forest Fire ](./Preprocessing/)
 ## NLP
+   ### [Natural Language Processing](./NLP/)
 ## Machine Learning
-  
+   ### Supervised Learning
+   ### [Customer Purchase Quantity Prediction](./Machine Learning/)
+## Power Bi
+   ### [Call Center Performance Dashboard](./Power Bi/)
+   In this visualization project, we provide a comprehensive overview of our call center's performance, showcasing both individual employee metrics and an overall 
+   report for the entire team. This dashboard is designed to help us gain valuable insights into our operations, identify areas for improvement, and celebrate our 
+   successes.
 
 
