@@ -20,7 +20,7 @@
    - Welcome to my journey in the world of machine learning! In this project, I explore the task of predicting customer purchase quantities, focusing on supervised learning techniques. This project marks my early steps into the field of machine learning during my academic journey
    - This project represents my early steps into the world of machine learning, with a focus on predicting customer purchase quantities using supervised learning techniques. It includes data preprocessing, exploratory data analysis, model development, and deployment. As I continue to learn and grow in the field of machine learning, I look forward to more advanced projects and applications
    ###  Recommendation System 
-   ### [Movie Recommendation System Using Association Rules](.Machine%20Learning/Recommendation%20System/Recommendation%20System.ipynb)
+   ### [Movie Recommendation System Using Association Rules](.Machine%20Learning/Recommendation%20System/)
    - Welcome to my project on building a movie recommendation system! In this project, I've employed various data science tools, including pandas, Matplotlib, Apriori, and association rule mining, to create a movie recommendation system based on the principles of association rules. The end goal of this project is to provide recommendations for the "Alien" movie.
    - This project demonstrates the application of association rule mining in the context of a movie recommendation system. By leveraging the Apriori algorithm, we've identified valuable associations among movies and provided personalized recommendations, including those for the "Alien" movie
 ## Power Bi
